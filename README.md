@@ -1,4 +1,4 @@
-#AUTOMATIC AC TEMPERATURE REGULATOR USING ARDUINO
+AUTOMATIC AC TEMPERATURE REGULATOR USING ARDUINO
 -----
 The aim of this project is to develop a  Prototype Model for controlling the temperature of AC using room temperature and humidity to set an optimum condition.
 
