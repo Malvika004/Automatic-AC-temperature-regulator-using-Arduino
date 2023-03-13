@@ -1,8 +1,8 @@
-AUTOMATIC AC TEMPERATURE REGULATOR USING ARDUINO
+# AUTOMATIC AC TEMPERATURE REGULATOR USING ARDUINO
 -----
 The aim of this project is to develop a  Prototype Model for controlling the temperature of AC using room temperature and humidity to set an optimum condition.
 
-Libraries used:-
+# Libraries used:-
 
 -----
 - **SimpleDHT.h**
@@ -38,7 +38,7 @@ This is a library for our Monochrome Nokia 5110 LCD Displays. The PCD8544 is a l
 ![](Aspose.Words.5750681b-feea-4114-b40a-f070f2b6e380.004.png)
 
 
-Components used:-
+# Components used:-
 
 -----
 - **Arduino Mega 2560**
@@ -71,7 +71,7 @@ It is a digital temperature and humidity sensor.
 
 Used to display the temperature and humidity of the room.
 
-Base Study: -
+# Base Study: -
 
 -----
 A cool environment with comfortable temperatures can go a long way in increasing productivity at work places, says a study conducted by the Indian Institute of Management, Ahmedabad. 
